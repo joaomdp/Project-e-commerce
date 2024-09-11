@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290756848055",
+    "project_id": "meu-projeto-dsm",
+    "storage_bucket": "meu-projeto-dsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290756848055:android:a696812c5a9218d2bfe032",
+        "android_client_info": {
+          "package_name": "com.example.shopping_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUz4wLgaxJxmIkmNar-HFX-TJGr0LupzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
